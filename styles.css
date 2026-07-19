@@ -150,13 +150,15 @@ h3 {
 }
 
 .art-flame {
-  top: 48%;
-  left: 50%;
-  width: 118px;
-  height: 118px;
-  color: rgba(237, 113, 56, 0.44);
-  -webkit-mask-image: url("assets/lucide/flame.svg");
-  mask-image: url("assets/lucide/flame.svg");
+  top: 58%;
+  right: 34%; 
+  left: auto;
+  width: 74px;
+  height: 74px;
+  color: #ed7138;
+  opacity: 0.58;
+  -webkit-mask-image: url("assets/lucide/flame-kindling.svg");
+  mask-image: url("assets/lucide/flame-kindling.svg");
 }
 
 .art-shield {
