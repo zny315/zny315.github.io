@@ -112,7 +112,7 @@ h3 {
   grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
   align-content: space-between;
   gap: 48px;
-  min-height: 760px;
+  min-height: 550px;
   padding: 88px var(--gutter) 46px;
   overflow: hidden;
   background: var(--paper);
