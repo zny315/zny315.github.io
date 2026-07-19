@@ -110,10 +110,9 @@ h3 {
   isolation: isolate;
   display: grid;
   grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
-  align-content: space-between;
-  gap: 48px;
-  min-height: 550px;
-  padding: 88px var(--gutter) 46px;
+  align-content: center;
+  min-height: 0;
+  padding: 56px var(--gutter) 64px;
   overflow: hidden;
   background: var(--paper);
   border-bottom: 1px solid var(--line);
