@@ -984,3 +984,16 @@ h3 {
   }
 
 }
+
+.project-award {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 12px 0 0;
+  color: #b85c28;
+  font-size: 0.95rem;
+}
+
+.project-award span {
+  font-size: 1.1rem;
+}
